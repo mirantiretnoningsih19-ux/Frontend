@@ -17,16 +17,15 @@ Project frontend untuk aplikasi pengelolaan data siswa menggunakan React dan Vit
 - Form input data siswa
 
 ## Struktur Folder
-```text
+text
 frontend-data-siswa/
-├── src/
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── style.css
-├── index.html
-├── package.json
-└── vite.config.js
-```
+src/
+App.jsx
+main.jsx
+style.css
+index.html
+package.json
+vite.config.js
 
 ## Cara Menjalankan
 
@@ -34,9 +33,8 @@ frontend-data-siswa/
 2. Buka terminal di folder frontend.
 3. Install package:
 
-```bash
+bash
 npm install
-```
 
 4. Jalankan aplikasi:
 
